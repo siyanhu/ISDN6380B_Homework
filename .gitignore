@@ -2,3 +2,6 @@
 */.DS_Store
 */__pycache__
 hw1/chessboards/.DS_Store
+hw2/data
+hw2/data*
+hw2/runs
